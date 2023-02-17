@@ -5,4 +5,27 @@ Simpe EURUSD only shorts bot. Just tried how to open/close trades on forex using
 
 ![image](https://user-images.githubusercontent.com/81808867/219661837-fe96b5d9-1880-4bd1-b2e6-16faa9638a69.png)
 
+## How to use
+- Edit eurusd_bot.py file, change your account, lot size, tp and sl settings.
+- Run eurusd_bot.py
 
+
+## Requirements
+Run pip install to install:
+
+<code>pip install MetaTrader5</code>
+
+<code>pip install pandas</code>
+
+Also you need MT5 installed.
+
+To start trading on Forex please register https://icmarkets.com/?camp=45001 and reduce your trading fees from 7$ to 5.5$ per lot.
+
+
+## Disclaimer
+This project is for informational and educational purposes only. You should not use this information or any other material as legal, tax, investment, financial or other advice. Nothing contained here is a recommendation, endorsement or offer by me to buy or sell any securities or other financial instruments. If you intend to use real money, use it at your own risk. Under no circumstances will I be responsible or liable for any claims, damages, losses, expenses, costs or liabilities of any kind, including but not limited to direct or indirect damages for loss of profits.
+
+## Contacts
+Discord: https://discord.gg/zSw58e9Uvf
+
+Telegram: https://t.me/aadresearch
