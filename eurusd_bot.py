@@ -1,3 +1,13 @@
+# Ryuryu's FOREX MT5 EURUSD Bot
+# * Only Shorts * (Production Mode #6973)
+# -------------------------------------
+# (c) 2023 Ryan Hayabusa 
+# GitGub: https://github.com/ryu878
+# Web: https://aadresearch.xyz
+# Discord: https://discord.gg/zSw58e9Uvf
+# Telegram: https://t.me/aadresearch
+# -------------------------------------
+
 import MetaTrader5 as mt5
 import pandas as pd
 import time
