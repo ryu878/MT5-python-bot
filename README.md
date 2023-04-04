@@ -29,3 +29,7 @@ This project is for informational and educational purposes only. You should not 
 Discord: https://discord.gg/zSw58e9Uvf
 
 Telegram: https://t.me/aadresearch
+
+## VPS for bots and scripts
+I prefer using DigitalOcean. 
+To get $200 in credit over 60 days use my ref link: https://m.do.co/c/3d7f6e57bc04
